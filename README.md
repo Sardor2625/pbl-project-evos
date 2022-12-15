@@ -1,6 +1,6 @@
-## 🖥 PBL - YTIT Oshxona sistemasi
+## 🖥 PBL - E
 
-ISE-51U guruhi tomonidan bajarilgan PBL uchun proyekt
+ISE-52U guruhi tomonidan bajarilgan PBL uchun proyekt
 
 ## 🐙 Github (Source Code)
 Github: https://github.com/KIUT-Projects/pbl-kitchen-pos-system
@@ -11,10 +11,8 @@ login: `admin@ytit.uz`
 parol: `password`
 
 ### Guruh azolari:
-- Umarov Kamoliddin
-- Mirxaliqov Kamron
-- Mardonov Kamron
-- Norboyev Aziz
+- Sardor G'aniyev 
+-Diyor Ibrohimov
 
 ### Ishlatilgan texnologiyalar:
 - Laravel v9 Framework (Backend)
