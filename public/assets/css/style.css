@@ -1,0 +1,60 @@
+.logo{
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    font-weight: 600;
+}
+.cart{
+    background-color: green;
+    color: white;
+    padding: 5px 20px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.cart:hover{
+    background-color: #d9d9d9;
+    color: green;
+}
+.product-info > div{
+    font-size: 20px;
+}
+.pricing-header > h1{
+    font-weight: 700 !important;
+}
+.cart-circle{
+    background-color: white;
+    color: green;
+    border-radius: 45px;
+    padding: 0 6px;
+}
+
+/*  */
+
+.totlaPrice{
+   
+    color:black;
+}
+
+/* Links style */
+.links{
+    margin-top: 10px;
+}
+.links:hover{
+    color: rgb(12, 148, 12);
+    
+}
+
+nav>a>.links:hover::before{
+    content: 'Asosiy';
+    background-color: currentcolor;
+    border-radius: 1px;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 50%;
+    margin-left: -9px;
+    position: absolute;
+    transform: scaleX(0);
+    width: 18px;
+}
+
